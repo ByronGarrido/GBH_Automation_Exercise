@@ -1,9 +1,9 @@
 # GBH_Automation_Exercise
 
-Libraries Used and Versions:
-Selenium 3.11.0
-TestNG 6.14.2.r201802161450
+Libraries Used and Versions:<br />
+Selenium 3.11.0 <br />
+TestNG 6.14.2.r201802161450 <br />
 
-Java Version: 
-JDK 1.8.131
-JRE 1.8.131
+Java Version: <br />
+JDK 1.8.131 <br />
+JRE 1.8.131 <br />
